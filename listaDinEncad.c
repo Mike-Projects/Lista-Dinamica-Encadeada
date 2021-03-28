@@ -1,3 +1,4 @@
+//Versao 1.1
 //Arquivo listaDinEncad.c
 
 #include <stdio.h>
