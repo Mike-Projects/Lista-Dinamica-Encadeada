@@ -39,7 +39,7 @@ int main()
 {
     int matri;
     bool con = true;
-    char opcao, pedro;
+    char opcao;
     Lista* li = cria_lista();
     struct aluno dados;
 

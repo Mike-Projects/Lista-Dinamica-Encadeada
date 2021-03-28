@@ -8,6 +8,7 @@ struct aluno
     float n1,n2,n3;
 };
 typedef struct elemento* Lista;
+
 //Assinatura das funções
 Lista* cria_lista();//ok
 void libera_lista(Lista* li);//ok

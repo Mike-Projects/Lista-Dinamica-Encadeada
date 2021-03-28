@@ -131,7 +131,7 @@ void imprime_lista(Lista* li)
     while(no != NULL)
     {
         printf("-------------------------------\n");
-        printf("Matrucula: %d\n",no->dados.matricula);
+        printf("Matricula: %d\n",no->dados.matricula);
         printf("Nome: %s\n",no->dados.nome);
         printf("Notas: %.2f %.2f %.2f\n",no->dados.n1,
                                          no->dados.n2,
